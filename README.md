@@ -3,7 +3,7 @@
 [Email](mailto:me@willpowell.uk) | [LinkedIn](https://www.linkedin.com/in/william-f-powell) | [Website](http://www.willpowell.uk)
 
 ---
-💻 I'm currently studying Applied Machine Learning at Imperial, and I'm seeking a career as a Data Scientist / Machine Learning Engineer.
+💻 I'm currently studying Applied Machine Learning at Imperial, and I'm seeking a career as a Data Scientist / Machine Learning Engineer
 
 📍 London, England
 
