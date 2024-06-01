@@ -5,14 +5,11 @@
 ---
 💻 I'm currently studying Applied Machine Learning at Imperial, and I'm seeking a career as a Data Scientist / Machine Learning Engineer.
 
-## 👋 About Me
-
-- Nationality: 🇬🇧 🇮🇪 🇮🇹 🇨🇭 🇬🇷
-- Personal interests: ⛷️ ⚽ 📸 🥊 💪🏽 🛫
-- Current location: 📍 London, England
+📍 London, England
 
 🌎 I am always up to something, so do check out my [website](https://willpowell.uk)
 
+---
 
 ## 🧠 Technical Skills
 
