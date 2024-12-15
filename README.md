@@ -3,21 +3,20 @@
 [Email](mailto:me@willpowell.uk) | [LinkedIn](https://www.linkedin.com/in/william-f-powell) | [Website](http://www.willpowell.uk)
 
 ---
-💻 I'm currently studying Applied Machine Learning at Imperial, and I'm seeking a career as a Data Scientist / Machine Learning Engineer
+💻 Machine Learning Engineer @ [mixedbread.ai](https://www.mixedbread.ai/)
 
 📍 London, England
 
-🌎 I am always up to something, so do check out my [website](https://willpowell.uk)
+🌎 I am always up to something, so do check out my [website](https://www.willpowell.uk)
 
 ---
 
 ## 🧠 Technical Skills
 
 - **Programming Languages:** C, C++, Python, Golang, MATLAB, Julia, JS, ReactJS, Bash, System Verilog, VBA.
-- **Machine Learning:** PyTorch, TensorFlow, Keras, OpenCV, MASE.
-- **Developer Tools:** Git, Linux, Docker, VMs, RTOS, HPC, Cloud Computing (AWS), SQL, NoSQL.
-- **Engineering Tools:** TCP/IP, UDP, Altium, Eagle, Autodesk Inventor, Solidworks, NX, Fusion 360, Simulink, Comsol, ModelSim.
-
+- **Machine Learning:** PyTorch, JAX, TensorFlow, Keras, OpenCV, MASE.
+- **Developer Tools:** Git, Linux, Docker, VMs, RTOS, HPC, WebDev (FastAPI), Cloud Computing (AWS), SQL.
+  
 ---
 
 Feel free to reach out via [email](mailto:me@willpowell.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/william-f-powell). Let’s build something amazing together!
