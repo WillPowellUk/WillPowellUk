@@ -2,8 +2,10 @@
 
 [Email](mailto:me@willpowell.uk) | [LinkedIn](https://www.linkedin.com/in/william-f-powell) | [Website](http://www.willpowell.uk)
 
+Engineer and researcher with creativity and grit, seeking a data science role that requires deep technical understanding and strong engineering abilities to build something great and get it out into the world.
+
 ---
-💻 Machine Learning Engineer @ [mixedbread.ai](https://www.mixedbread.ai/)
+💻 Machine Learning Researcher @ [mixedbread.ai](https://www.mixedbread.ai/)
 
 📍 London, England
 
