@@ -5,7 +5,7 @@
 Engineer and researcher with creativity and grit, seeking a data science role that requires deep technical understanding and strong engineering abilities to build something great and get it out into the world.
 
 ---
-💻 Machine Learning Researcher @ [mixedbread.ai](https://www.mixedbread.ai/)
+💻 Data Scientist @ Lendable
 
 📍 London, England
 
