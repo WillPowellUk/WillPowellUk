@@ -2,8 +2,7 @@
 
 [Email](mailto:me@willpowell.uk) | [LinkedIn](https://www.linkedin.com/in/william-f-powell) | [Website](http://www.willpowell.uk)
 
-Engineer and researcher with creativity and grit. Open to data science roles that requires deep technical understanding and strong engineering abilities to build something great and get it out into the world.
-
+AI Research Engineer with an MSc in Applied Machine Learning from Imperial College London, experienced in developing and deploying ML models, building Agentic AI systems, collaborating with cross-functional teams, and solving real-world challenges at scale using cutting-edge AI techniques. Currently building and evaluating conversational AI systems that serve hundreds of thousands of customers in the consumer lending domain.
 ---
 💻 Data Scientist @ Lendable
 
