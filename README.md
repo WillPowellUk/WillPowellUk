@@ -15,9 +15,9 @@ AI Research Engineer with an MSc in Applied Machine Learning from Imperial Colle
 
 ## 🧠 Technical Skills
 
-- **Programming Languages:** C, C++, Python, Golang, MATLAB, Julia, JS, ReactJS, Bash, System Verilog, VBA.
-- **Machine Learning:** PyTorch, JAX, TensorFlow, Keras, OpenCV, MASE.
-- **Developer Tools:** Git, Linux, Docker, VMs, RTOS, HPC, WebDev (FastAPI), Cloud Computing (AWS), SQL.
+- **Programming Languages:** Python, SQL, C++, C, Go, React, MATLAB, Julia, JS, Bash.
+- **Machine Learning:** PyTorch, TensorFlow, Keras, OpenCV, CUDA, DSPy
+- **Developer Tools:** Git, Linux, Docker & Kubernetes, FastAPI, PostgreSQL, AWS, GCP
   
 ---
 
